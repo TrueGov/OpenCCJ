@@ -86,6 +86,7 @@ dt {
 }
 
 dl p {
+  margin: 0 0;
   text-indent: 0pt;
 }
 
@@ -94,6 +95,7 @@ th p {
 }
 
 td p {
+  margin: 0 0;
   text-indent: 0pt;
 }
 
