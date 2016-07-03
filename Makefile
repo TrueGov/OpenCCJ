@@ -2,7 +2,7 @@
 DOCNAME=	jcc
 #DOCNAME=	test
 
-INCDIR=		${.CURDIR}/../..
+INCDIR=		${.CURDIR}/../../..
 IMGDIR=		${INCDIR}/img
 BIBDBDIR=	${INCDIR}/bib
 
