@@ -1,22 +1,20 @@
 # $$
-DOCNAME=	jcc
-#DOCNAME=	test
+DOCNAME=	amendment
 
 INCDIR=		${.CURDIR}/../../..
 IMGDIR=		${INCDIR}/img
 BIBDBDIR=	${INCDIR}/bib
 
-CSSFILE=	jcc.css
-SDOC_HTML_SPLIT=section
-WITHOUT_TOC=	yes
-SDOC_HTML_NUMBEREDTITLE_OPTION=
+TEX_DEFSTY=	legal
 
-ENCODING=	UTF-8
+ENCODING=	EUC-JP
 _LOCAL_NAME=	openjcc
 SRCDIR=		${.CURDIR}
-PAGESDIR=	${SRCDIR}/pages
+DOCVERSION=	0.0
 TAR_ARGS=	--exclude './.git' --exclude './html4/*' --exclude './fig' --exclude './tbl' \
 		--exclude './*~' --exclude './*.bak'
-CONVERTGH_CMD=	${SETENV} RUBY_ARGS=${RUBY_ARGS} OPENTOOLSINCDIR=${OPENTOOLSINCDIR} ${SDOC2PAGE}
+CONVERTTEX_CMD=	${SETENV} RUBY_ARGS=${RUBY_ARGS} OPENTOOLSINCDIR=${OPENTOOLSINCDIR} DOCVERSION=${DOCVERSION} ${LATEX2LATEX}
+POST_TEX_LIST=	${CONVERTTEX_CMD} -N -T legal -s 3 -p banner_longtable ${WRKSRC}/${DOCNAME}.tex
+POST_PDF_LIST=	${MV} ${WRKSRC}/${DOCNAME}.pdf ${SRCDIR}/
 
 .include "${INCDIR}/Makefile.sdoc.in"
