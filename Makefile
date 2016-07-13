@@ -16,8 +16,9 @@ SRCDIR=		${.CURDIR}
 PAGESDIR=	${SRCDIR}/pages
 DOCVERSION=	0.0
 DOCNAME_PDF=	amendment
-TAR_ARGS=	--exclude './.git' --exclude './html4/*' --exclude './fig' --exclude './tbl' \
-		--exclude './*~' --exclude './*.bak'
+TAR_ARGS=	--exclude './amendment.sdoc' --exclude './.git' --exclude './html4' \
+		--exclude './latex2e' --exclude './fig' --exclude './tbl' \
+		--exclude './fontconfig' --exclude './*~' --exclude './*.bak'
 CONVERTTEX_CMD=	${SETENV} RUBY_ARGS=${RUBY_ARGS} OPENTOOLSINCDIR=${OPENTOOLSINCDIR} DOCVERSION=${DOCVERSION} ${LATEX2LATEX}
 CONVERTSDOC_CMD=${SETENV} RUBY_ARGS=${RUBY_ARGS} OPENTOOLSINCDIR=${OPENTOOLSINCDIR} ${SDOC2SDOC}
 CONVERTGH_CMD=	${SETENV} RUBY_ARGS=${RUBY_ARGS} OPENTOOLSINCDIR=${OPENTOOLSINCDIR} ${SDOC2PAGE}
