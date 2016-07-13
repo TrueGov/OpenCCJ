@@ -58,9 +58,9 @@
 公開日本国市民憲法案全文などが掲載されています。
 
 　「公開市民憲法の会(OpenJCC)」のツイッターアカウントは
-[https://twitter.com/JccOpen](@JccOpen) です。
-ハッシュタグ [https://twitter.com/search?q=%23公開市民憲法の会&src=typd](#公開市民憲法の会)，
-および  [https://twitter.com/search?f=tweets&q=%23公開市民憲法&src=typd](#公開市民憲法) でもツイートできます．
+[@JccOpen](https://twitter.com/JccOpen) です。
+ハッシュタグ [#公開市民憲法の会](https://twitter.com/search?q=%23公開市民憲法の会&src=typd)，
+および  [#公開市民憲法](https://twitter.com/search?f=tweets&q=%23公開市民憲法&src=typd) でもツイートできます．
 
 ### 「公開市民憲法の会」へのお問い合わせ
 
