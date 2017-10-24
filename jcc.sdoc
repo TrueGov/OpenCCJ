@@ -20,14 +20,14 @@ Free Documentation License".
   <author locale="en">Open Japanese Constitution for Citizen</author>
   <email>project@OpenJCC.jp</email>
   <hp>http://www.OpenJCC.jp/</hp>
-  <date locale="ja">平成 29 年 10 月 19 日</date>
-  <date locale="en">Oct 19 2017</date>
+  <date locale="ja">平成 29 年 10 月 24 日</date>
+  <date locale="en">Oct 24 2017</date>
 </head>
 
 <body>
   <section title="公開日本国市民憲法(Open Japanese Constitution for Citizen)とは" id="sec:about_openjcc" locale="ja">
     <p class="paragraph">
-      日本国憲法を市民が作るための叩き台を作りました。
+      日本国憲法を市民が作るための<a href="http://www.openjcc.jp/amendment.pdf">叩き台</a>を作りました。
       作ったと言っても最初から作ったわけではありません。現在の日本国憲法を基に、
       必要と思われる部分を追加し、不要と思われる部分を削除しました。したがって、
       正確には日本国憲法の改正案となります。
@@ -74,9 +74,10 @@ Free Documentation License".
       その結果、遊興・娯楽番組に終始することで良いのかという素朴な疑問もあります。
     </p>
     <p class="paragraph">
-      公開日本国市民憲法試案では、戦争放棄を確実にするための手立て、
-      「自由」や「公共」の定義と、その社会的意義、
-      国民本位の政策の実践に向うための方策などについて具体的に提案をしています。
+      <a href="./full_text.html">公開日本国市民憲法試案</a>では、
+      <a href="./explanation.html#doc1_sec:pacifism">戦争放棄を確実にするための手立て</a>、
+      <a href="./explanation.html#doc1_sec:diet_member">「自由」や「公共」の定義とその社会的意義</a>、
+      <a href="./explanation.html#doc1_sec:government">国民本位の政策の実践に向うための方策</a>などについて具体的に提案をしています。
       これらは、そもそも憲法に盛り込むべきことではないとか、
       これでは不十分であるとか、条文が矛盾しているなど、様々な御意見があるでしょう。
       公開市民憲法の会ではこれらの意見を全て汲み取るため、
@@ -200,7 +201,7 @@ Free Documentation License".
   </section>
 
   <section title="解説" id="sec:explanation" locale="ja">
-    <subsection title="国家および絶対的平和主義の規定" locale="ja">
+    <subsection title="国家および絶対的平和主義の規定" id="sec:pacifism" locale="ja">
 <!--
     およそ、人類は生物学史上最も残忍かつ低劣な種である。
     僅か 300 年あまりの間に地球上の全ての地域は、人類によって隈無く収奪され、
@@ -276,7 +277,7 @@ Free Documentation License".
         自衛隊という名前の軍隊ができ、事実上反古にされた。
         これは、第 2 項の「前項の目的を達するため」の「前項」が、
         第 1 項の「国際紛争を解決する手段」として解釈できるからだ。
-        第 9 条第 1 項の武力行使の必要条件は削除しなければならない。
+        第 9 条第 1 項の。この武力行使の必要条件は削除しなければならない。
         そして、元の原案の通り、戦力放棄を明確に宣言するのだ。
       </p>
       <p class="paragraph">
@@ -324,7 +325,7 @@ Free Documentation License".
     </subsection>
 
     <subsection title="選挙制度への言及と有効議員議席数への変更"
-    id="electoral_system" locale="ja">
+    id="sec:electoral_system" locale="ja">
 <!--
     o そもそも国会議員数は正確に有権者数に比例した構成であるべき
       - そもそも死に票が出るような選挙制度は憲法違反である

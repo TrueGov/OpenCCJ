@@ -45,7 +45,7 @@
 
 　[公開日本国市民憲法試案](http://www.openjcc.jp/full_text.html)では、
 [戦争放棄を確実にするための手立て](http://www.openjcc.jp/explanation.html#doc1_sec:pacifism)、
-[「自由」や「公共」の定義とその社会的意義](http://www.openjcc.jp/explanation.html#doc1_sec:government)、
+[「自由」や「公共」の定義とその社会的意義](http://www.openjcc.jp/explanation.html#doc1_sec:diet_member)、
 [国民本位の政策の実践に向うための方策](http://www.openjcc.jp/explanation.html#doc1_sec:government)などについて具体的に提案をしています。
 これらは、そもそも憲法に盛り込むべきことではないとか、
 これでは不十分であるとか、条文が矛盾しているなど、様々な御意見があるでしょう。
