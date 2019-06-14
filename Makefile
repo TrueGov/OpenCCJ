@@ -1,26 +1,22 @@
 # $$
-DOCNAME=	jcc
+DOCNAME=	amendment
 
 INCDIR=		${.CURDIR}/../../..
 IMGDIR=		${INCDIR}/img
 BIBDBDIR=	${INCDIR}/bib
 
-CSSFILE=	jcc.css
-SDOC_HTML_SPLIT=section
-WITHOUT_TOC=	yes
-SDOC_HTML_NUMBEREDTITLE_OPTION=
+TEX_DEFSTY=	legal
+JA_TRADITIONAL=	yes
 
 ENCODING=	UTF-8
-_LOCAL_NAME=	openjcc
+_LOCAL_NAME=	openccj
 SRCDIR=		${.CURDIR}
-PAGESDIR=	${SRCDIR}/pages
 DOCVERSION=	0.0
-DOCNAME_PDF=	amendment
 TAR_ARGS=	--exclude './amendment.sdoc' --exclude './.git' --exclude './html4' \
 		--exclude './latex2e' --exclude './fig' --exclude './tbl' \
 		--exclude './fontconfig' --exclude './*~' --exclude './*.bak'
 CONVERTTEX_CMD=	${SETENV} RUBY_ARGS=${RUBY_ARGS} OPENTOOLSINCDIR=${OPENTOOLSINCDIR} DOCVERSION=${DOCVERSION} ${LATEX2LATEX}
-CONVERTSDOC_CMD=${SETENV} RUBY_ARGS=${RUBY_ARGS} OPENTOOLSINCDIR=${OPENTOOLSINCDIR} ${SDOC2SDOC}
-CONVERTGH_CMD=	${SETENV} RUBY_ARGS=${RUBY_ARGS} OPENTOOLSINCDIR=${OPENTOOLSINCDIR} ${SDOC2PAGE} -L -s -t './Templates/github/page/LeapDay.html'
+POST_TEX_LIST=	${CONVERTTEX_CMD} -N -T legal -s 3 -p banner_longtable ${WRKSRC}/${DOCNAME}.tex
+POST_PDF_LIST=	${MV} ${WRKSRC}/${DOCNAME}.pdf ${SRCDIR}/
 
 .include "${INCDIR}/Makefile.sdoc.in"
