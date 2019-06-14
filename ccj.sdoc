@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding="UTF-8" ?>
 <!--
-Copyright (C)  2016  OpenJCC Project.
+Copyright (C)  2016  OpenCCJ Project.
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
 or any later version published by the Free Software Foundation;
@@ -17,17 +17,17 @@ Free Documentation License".
   <title>日本国憲法改正の趣意と改正案</title>
   <title locale="en">The Aim of Reforming Japanese Constitution and it's Bill</title>
   <author locale="ja">公開市民憲法の会</author>
-  <author locale="en">Open Japanese Constitution for Citizen</author>
-  <email>project@OpenJCC.jp</email>
-  <hp>https://www.OpenJCC.jp/</hp>
-  <date locale="ja">平成 29 年 12 月 11 日</date>
-  <date locale="en">Dec 11 2017</date>
+  <author locale="en">Open Constitution for Citizen of Japan</author>
+  <email>project@OpenCCJ.org</email>
+  <hp>https://www.OpenCCJ.org/</hp>
+  <date locale="ja">平成 31 年 6 月 12 日</date>
+  <date locale="en">Jan  5 2018</date>
 </head>
 
 <body>
-  <section title="公開日本国市民憲法(Open Japanese Constitution for Citizen)とは" id="sec:about_openjcc" locale="ja">
+  <section title="公開日本国市民憲法(Open Constitution for Citizen Japan)とは" id="sec:about_openjcc" locale="ja">
     <p class="paragraph">
-      日本国憲法を市民が作るための<a href="https://www.openjcc.jp/amendment.pdf">叩き台</a>を作りました。
+      日本国憲法を市民が作るための<a href="https://www.openccj.org/amendment.pdf">叩き台</a>を作りました。
       作ったと言っても最初から作ったわけではありません。現在の日本国憲法を基に、
       必要と思われる部分を追加し、不要と思われる部分を削除しました。したがって、
       正確には日本国憲法の改正案となります。
@@ -1025,7 +1025,7 @@ Free Documentation License".
         </table>
       </p>
       <p class="paragraph">
-        法案に関する審議は、通常国会や臨時国会など区別せず年中行なうべきであって、
+        法案に関する審議は、通常国会や臨時国会など�別せず年中行なうべきであって、
         国民と同じように、土・日および祝祭日を除き国会は開催するべきである。
         首相の外交日程が取れないという理由で国会を開催しないなどは論外であり、
         それなら関連する閣僚が答弁すれば良いだけのことだ、
@@ -2250,7 +2250,7 @@ Free Documentation License".
 
                   5　最高裁判所の裁判官は、法律の定める年齢に達した時に退官する。
 
-                  6　最高裁判所の裁判官は、すべて定期に相当額の報酬を受ける。
+                  6　最高裁判所の�判官は、すべて定期に相当額の報酬を受ける。
                   この報酬は、在任中、これを減額することができない。
               </td>
               <td style="background-color:antiquewhite">
@@ -5017,7 +5017,7 @@ Free Documentation License".
               法律の定める年齢に達した時には退官する。
           </td>
           <td>
-              <b>第 80 条</b>　下級裁判所の裁判官は、
+              <b>� 80 条</b>　下級裁判所の裁判官は、
               最高裁判所の指名した者の名簿によつて、
               <b style="color:blue">内閣で</b>これを任命する。
               その裁判官は、任期を<b style="color:blue">十年</b>とし、
@@ -7536,46 +7536,46 @@ Free Documentation License".
     <subsection title="「公開市民憲法の会」へのお問い合わせ" locale="ja">
       <p class="paragraph">
         まず、「公開市民憲法の会」についてのお問い合わせは、
-        <a href="mailto:info@OpenJCC.jp">info@OpenJCC.jp</a> にしてください。
+        <a href="mailto:info@OpenCCJ.org">info@OpenCCJ.org</a> にしてください。
         「『公開市民憲法の会』って何？」、「どういう人がやってるの？」、
         「私でも何かできることがあるんですか？」など何でも構いません。
         気軽にご質問ください。
       </p>
       <p class="paragraph">
         また、「公開市民憲法の会」の管理・運営に関するご質問については、
-	<a href="mailto:project@OpenJCC.jp">project@OpenJCC.jp</a> が承ります。 
+	<a href="mailto:project@OpenCCJ.org">project@OpenCCJ.org</a> が承ります。 
 	「公開市民憲法の会」自体に法的な不備および社会的な瑕疵等の問題や、
 	実際の管理・運営の詳細に関するご質問等がございましたら、
 	何なりと御連絡ください。
       </p>
       <p class="paragraph">
         なお、Google にアカウントのある方は、
-	<a href="http://forum.OpenJCC.jp/"><tt>http://forum.OpenJCC.jp/</tt></a> から
+	<a href="http://forum.OpenCCJ.org/"><tt>http://forum.OpenCCJ.org/</tt></a> から
 	「すべてのグループ」をクリックし、「公開市民憲法の会(お問い合わせ)」
 	および「公開市民憲法の会(運営者)」を選択してください。それぞれ、
-	<a href="mailto:info@OpenJCC.jp">info@OpenJCC.jp</a>、および
-	<a href="mailto:project@OpenJCC.jp">project@OpenJCC.jp</a>に、
+	<a href="mailto:info@OpenCCJ.org">info@OpenCCJ.org</a>、および
+	<a href="mailto:project@OpenCCJ.org">project@OpenCCJ.org</a>に、
 	ウェッブ上から投稿できます。
       </p>
     </subsection>
 
     <subsection title="「公開市民憲法の会」メイリングリスト" locale="ja">
       <p class="paragraph">
-	<a href="https://groups.google.com/a/openjcc.jp/forum/#!forum/users">「公開市民憲法の会」のフォーラム</a>を設けました。
+	<a href="https://groups.google.com/a/openccj.org/forum/#!forum/users">「公開市民憲法の会」のフォーラム</a>を設けました。
         メールで議論を交すメイリングリストのウェッブサイトです。
 	参加者の制限はありません。どなたでも参加できます。
 	参加するには、
-	<a href="mailto:users+subscribe@OpenJCC.jp">users+subscribe@OpenJCC.jp</a>
+	<a href="mailto:users+subscribe@OpenCCJ.org">users+subscribe@OpenCCJ.org</a>
 	にメールを送ってください。確認メールが返送されてきますので、
 	それに単純に返事を返せば、登録されます。また、退会するには、
-	<a href="mailto:users+unsubscribe@OpenJCC.jp">users+unsubscribe@OpenJCC.jp</a>
+	<a href="mailto:users+unsubscribe@OpenCCJ.org">users+unsubscribe@OpenCCJ.org</a>
 	にメールを送ってください。
 	議論の結果は、インターネット上で見ることもできます。
-	<a href="http://forum.OpenJCC.jp/"><tt>http://forum.OpenJCC.jp/</tt></a> から
+	<a href="http://forum.OpenCCJ.org/"><tt>http://forum.OpenCCJ.org/</tt></a> から
 	「すべてのグループ」をクリックし、「公開市民憲法の会」を選択してください。
 	このメイリングリストも、Google アカウントをお持ちの方は、
 	<a
-	href="https://groups.google.com/a/openjcc.jp/forum/#!forum/users">
+	href="https://groups.google.com/a/openccj.org/forum/#!forum/users">
 	「公開市民憲法の会」のサイト</a>上から、入・退会および投稿が可能です。
       </p>
       <p class="paragraph">
@@ -7601,7 +7601,7 @@ Free Documentation License".
 
     <subsection title="「公開市民憲法の会」のツイッターアカウント"
     locale="ja">
-      「公開市民憲法の会(OpenJCC)」のツイッターアカウントは
+      「公開市民憲法の会(OpenCCJ)」のツイッターアカウントは
       <a href="https://twitter.com/JccOpen">@JccOpen</a> です。
       ハッシュタグ <a href="https://twitter.com/search?q=%23公開市民憲法の会&amp;src=typd">#公開市民憲法の会</a>、
       および <a href="https://twitter.com/search?f=tweets&amp;q=%23公開市民憲法&amp;src=typd">#公開市民憲法</a> でもツイートできます。
@@ -7612,13 +7612,13 @@ Free Documentation License".
         「公開市民憲法の会」ではプロジェクトメンバーを募集しております。
 	プロジェクトの運営から、実際の「公開日本国市民憲法案」の作成に至るまで、
 	様々な仕事があります。常に人手不足ですので、協力したいという方は、是非
-	<a href="mailto:info@OpenJCC.jp">info@OpenJCC.jp</a> または
-	<a href="mailto:project@OpenJCC.jp">project@OpenJCC.jp</a> に御連絡ください。
+	<a href="mailto:info@OpenCCJ.org">info@OpenCCJ.org</a> または
+	<a href="mailto:project@OpenCCJ.org">project@OpenCCJ.org</a> に御連絡ください。
       </p>
       <p class="paragraph">
         なお、コンテンツは全て <a href="https://github.com">GitHub</a>
 	で管理しています。GitHub によるソース管理に詳しい方は
-	<a href="https://github.com/kouta-onaga/OpenJCC"
+	<a href="https://github.com/TrueGov/OpenCCJ"
 	class="button"><strong>View On GitHub</strong></a> を御覧ください。
 	レポジットリをチェックアウトして、
 	誤謬や誤植、問題点の御指摘などについて、
