@@ -1,6 +1,6 @@
-公開日本国市民憲法(Open Japanese Constitution for Citizen)
+公開日本国市民憲法(Open Constitution for Citizen of Japan)
 ===========================================================
-　日本国憲法を市民が作るための[叩き台](http://www.openjcc.jp/amendment.pdf)を作りました。
+　日本国憲法を市民が作るための[叩き台](http://www.openccj.org/amendment.pdf)を作りました。
 作ったと言っても最初から作ったわけではありません。現在の日本国憲法を基に、
 必要と思われる部分を追加し、不要と思われる部分を削除しました。したがって、
 正確には日本国憲法の改正案となります。
@@ -43,10 +43,10 @@
 「視聴者の希望する公正・中立な番組を提供することが公共放送である」として、
 その結果、遊興・娯楽番組に終始することで良いのかという素朴な疑問もあります。
 
-　[公開日本国市民憲法試案](http://www.openjcc.jp/full_text.html)では、
-[戦争放棄を確実にするための手立て](http://www.openjcc.jp/explanation.html#doc1_sec:pacifism)、
-[「自由」や「公共」の定義とその社会的意義](http://www.openjcc.jp/explanation.html#doc1_sec:diet_member)、
-[国民本位の政策の実践に向うための方策](http://www.openjcc.jp/explanation.html#doc1_sec:government)などについて具体的に提案をしています。
+　[公開日本国市民憲法試案](http://www.openccj.org/full_text.html)では、
+[戦争放棄を確実にするための手立て](http://www.openccj.org/explanation.html#doc1_sec:pacifism)、
+[「自由」や「公共」の定義とその社会的意義](http://www.openccj.org/explanation.html#doc1_sec:diet_member)、
+[国民本位の政策の実践に向うための方策](http://www.openccj.org/explanation.html#doc1_sec:government)などについて具体的に提案をしています。
 これらは、そもそも憲法に盛り込むべきことではないとか、
 これでは不十分であるとか、条文が矛盾しているなど、様々な御意見があるでしょう。
 公開市民憲法の会ではこれらの意見を全て汲み取るため、
@@ -54,12 +54,12 @@
 
 ### 「公開市民憲法の会」の関連サイト
 
-　「公開市民憲法の会(OpenJCC)」の公式ホームページは
-[http://www.OpenJCC.jp](http://www.OpenJCC.jp) です。OpenJCC について、
+　「公開市民憲法の会(OpenCCJ)」の公式ホームページは
+[http://www.OpenCCJ.org](http://www.OpenCCJ.org) です。OpenCCJ について、
 公開日本国市民憲法案を提起した理由および解説、現日本国憲法との対照表、
 公開日本国市民憲法案全文などが掲載されています。
 
-　「公開市民憲法の会(OpenJCC)」のツイッターアカウントは
+　「公開市民憲法の会(OpenCCJ)」のツイッターアカウントは
 [@JccOpen](https://twitter.com/JccOpen) です。
 ハッシュタグ [#公開市民憲法の会](https://twitter.com/search?q=%23公開市民憲法の会&src=typd)、
 および  [#公開市民憲法](https://twitter.com/search?f=tweets&q=%23公開市民憲法&src=typd) でもツイートできます。
@@ -67,40 +67,40 @@
 ### 「公開市民憲法の会」へのお問い合わせ
 
 　まず、「公開市民憲法の会」についてのお問い合わせは、
-info@OpenJCC.jp にしてください。
+info@OpenCCJ.org にしてください。
 「『公開市民憲法の会』って何？」、「どういう人がやってるの？」、
 「私でも何かできることがあるんですか？」など何でも構いません。
 気軽にご質問ください。
 
 　また、「公開市民憲法の会」の管理・運営に関するご質問については、
-project@OpenJCC.jp が承ります。 
+project@OpenCCJ.org が承ります。 
 「公開市民憲法の会」自体に法的な不備および社会的な瑕疵等の問題や、
 実際の管理・運営の詳細に関するご質問等がございましたら、
 何なりと御連絡ください。
 
 　なお、Google にアカウントのある方は、
-[http://forum.OpenJCC.jp](http://forum.OpenJCC.jp) から
+[http://forum.OpenCCJ.org](http://forum.OpenCCJ.org) から
 「すべてのグループ」をクリックし、「公開市民憲法の会(お問い合わせ)」
 および「公開市民憲法の会(運営者)」を選択してください。それぞれ、
-info@OpenJCC.jp 、および
-project@OpenJCC.jp に、
+info@OpenCCJ.org 、および
+project@OpenCCJ.org に、
 ウェッブ上から投稿できます。
 
 ### 「公開市民憲法の会」メイリングリスト
 
-　[「公開市民憲法の会」のフォーラム](https://groups.google.com/a/openjcc.jp/forum/#!forum/users)を設けました。
+　[「公開市民憲法の会」のフォーラム](https://groups.google.com/a/openccj.jp/forum/#!forum/users)を設けました。
 メールで議論を交すメイリングリストのサイトです。
 参加者の制限はありません。どなたでも参加できます。
 参加するには、
-users+subscribe@OpenJCC.jp にメールを送ってください。
+users+subscribe@OpenCCJ.org にメールを送ってください。
 確認メールが返送されてきますので、
 それに単純に返事を返せば、登録されます。また、退会するには、
-users+unsubscribe@OpenJCC.jp にメールを送ってください。
+users+unsubscribe@OpenCCJ.org にメールを送ってください。
 議論の結果は、インターネット上で見ることもできます。
-<a href="http://forum.OpenJCC.jp/"><tt>http://forum.OpenJCC.jp/</tt></a> から
+<a href="http://forum.OpenCCJ.org/"><tt>http://forum.OpenCCJ.org/</tt></a> から
 「すべてのグループ」をクリックし、「公開市民憲法の会」を選択してください。
 このメイリングリストも、Google アカウントをお持ちの方は、
-[「公開市民憲法の会」のフォーラム](https://groups.google.com/a/openjcc.jp/forum/#!forum/users")
+[「公開市民憲法の会」のフォーラム](https://groups.google.com/a/openccj.jp/forum/#!forum/users")
 上から、入・退会および投稿が可能です。
   
 　このメイリングリストは、
@@ -125,7 +125,7 @@ users+unsubscribe@OpenJCC.jp にメールを送ってください。
 　「公開市民憲法の会」ではプロジェクトメンバーを募集しております。
 プロジェクトの運営から、実際の「公開日本国市民憲法案」の作成に至るまで、
 様々な仕事があります。常に人手不足ですので、協力したいという方は、是非
-info@OpenJCC.jp または project@OpenJCC.jp に御連絡ください。
+info@OpenCCJ.org または project@OpenCCJ.org に御連絡ください。
 
 　なお、コンテンツは全て [GitHub](https://github.com)
 で管理しています。
@@ -139,4 +139,4 @@ info@OpenJCC.jp または project@OpenJCC.jp に御連絡ください。
 
 ---
 公開市民憲法の会  
-project@openjcc.jp
+project@openccj.jp
