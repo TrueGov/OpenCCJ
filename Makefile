@@ -7,6 +7,7 @@ BIBDBDIR=	${INCDIR}/bib
 
 TEX_DEFSTY=	legal
 JA_TRADITIONAL=	yes
+LOCALES=	en ja
 
 ENCODING=	UTF-8
 _LOCAL_NAME=	openccj
