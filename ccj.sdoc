@@ -20,12 +20,12 @@ Free Documentation License".
   <author locale="en">Open Constitution for Citizen of Japan</author>
   <email>project@OpenCCJ.org</email>
   <hp>https://www.OpenCCJ.org/</hp>
-  <date locale="ja">平成 31 年 6 月 12 日</date>
-  <date locale="en">Jan  5 2018</date>
+  <date locale="ja">令和 元 年 6 月 17 日</date>
+  <date locale="en">Jun 17 2019</date>
 </head>
 
 <body>
-  <section title="公開日本国市民憲法(Open Constitution for Citizen Japan)とは" id="sec:about_openjcc" locale="ja">
+  <section title="公開日本国市民憲法(Open Constitution for Citizen of Japan)とは" id="sec:about_openjcc" locale="ja">
     <p class="paragraph">
       日本国憲法を市民が作るための<a href="https://www.openccj.org/amendment.pdf">叩き台</a>を作りました。
       作ったと言っても最初から作ったわけではありません。現在の日本国憲法を基に、
